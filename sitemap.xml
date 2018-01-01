@@ -32,7 +32,80 @@
     
     <url>
     
+      <loc>http://pavanakumar.github.io/publication/mesh_opti/</loc>
+      <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/publication/hybrid_ad/</loc>
+      <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/project/cfoam/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/publication/sfc/</loc>
+      <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/publication/aesi/</loc>
+      <lastmod>2012-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/publication/fst/</loc>
+      <lastmod>2009-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/publication/store/</loc>
+      <lastmod>2006-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://pavanakumar.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/tags/cpp/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -51,7 +124,18 @@
     
     <url>
     
+      <loc>http://pavanakumar.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://pavanakumar.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
