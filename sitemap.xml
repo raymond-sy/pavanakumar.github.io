@@ -50,6 +50,15 @@
     
     <url>
     
+      <loc>http://pavanakumar.github.io/project/fuse/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://pavanakumar.github.io/project/cfoam/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -88,6 +97,16 @@
     
       <loc>http://pavanakumar.github.io/publication/store/</loc>
       <lastmod>2006-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/tags/c&#43;&#43;/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
