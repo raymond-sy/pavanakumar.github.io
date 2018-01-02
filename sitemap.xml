@@ -50,6 +50,15 @@
     
     <url>
     
+      <loc>http://pavanakumar.github.io/project/gf/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://pavanakumar.github.io/project/fuse/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -124,6 +133,16 @@
     <url>
     
       <loc>http://pavanakumar.github.io/tags/cpp/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://pavanakumar.github.io/tags/fortran/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
